@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
 from tkinter import Menu
-from tkinter import messagebox as mBox
+#from tkinter import messagebox as mBox
 
 # Create instance
 win = tk.Tk()   
